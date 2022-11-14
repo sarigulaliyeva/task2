@@ -26,6 +26,6 @@ class Messenger{
 }
 
 let messenger = new Messenger()
-messenger.send('Adil', 'ilk mesaj')
-messenger.send('Məryəm', 'İkinci mesaj')
+messenger.send('Sarigul', 'ilk mesaj')
+messenger.send('Nigar', 'İkinci mesaj')
 messenger.show_history()
